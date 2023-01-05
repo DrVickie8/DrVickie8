@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Victoria Johnson.
 - 👀 I’m interested in learning new things, and making a difference.
-- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on interesting projects that makes life easier for mankind.
 - 📫 How to reach me johnsonvickie884@gmail.com
 
