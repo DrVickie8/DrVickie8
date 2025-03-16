@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victoria Johnson.
-- 👀 I’m interested in learning new things, and making a difference.
-- 💞️ I’m looking to collaborate on interesting projects that makes life easier for mankind.
+- 👀 I’m interested in learning new things.
+- 💞️ I’m looking to collaborate on interesting projects that makes life easier.
 - 📫 How to reach me johnsonvickie884@gmail.com
 
 <!---
